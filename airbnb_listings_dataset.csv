@@ -1,0 +1,320 @@
+listing_id,neighborhood_group,neighborhood,room_type,price,minimum_nights,number_of_reviews,review_rate_month,average_rating,availability_365,host_is_superhost,accommodates,bedrooms,bathrooms,has_wifi,has_kitchen,has_ac,distance_to_center_km
+100074,Queens,Jackson Heights,Entire home/apt,229,2,6,0.71,4.57,341,1,2,2,1,1,1,1,10.95
+100219,Bronx,Riverdale,Entire home/apt,205,3,3,3.95,4.06,347,0,2,1,1,1,1,1,5.25
+100026,Manhattan,Chelsea,Private room,148,3,5,0.58,4.45,315,0,1,0,1,1,1,1,0.79
+100209,Manhattan,Chelsea,Private room,96,3,3,0.76,4.23,345,0,1,0,1.5,1,1,1,0.69
+100010,Manhattan,Chelsea,Entire home/apt,233,21,11,0.45,4.39,356,1,4,3,2,1,1,1,2.56
+100102,Manhattan,Harlem,Entire home/apt,204,13,23,0.29,4.41,334,0,2,1,1,1,1,1,3.61
+100177,Brooklyn,Bedford-Stuyvesant,Entire home/apt,241,1,27,0.81,4.4,365,1,5,1,1,1,1,1,6.87
+100187,Brooklyn,Brooklyn Heights,Private room,144,2,2,0.92,4.26,355,0,3,0,1,1,1,1,3.98
+100064,Manhattan,Upper West Side,Private room,289,4,18,0.22,4.51,309,0,2,0,1,1,1,1,1.6
+100117,Manhattan,Harlem,Private room,207,4,17,0.16,4.39,344,0,1,0,1,0,1,1,2.31
+100280,Bronx,Riverdale,Entire home/apt,156,6,5,0.08,4.59,326,1,2,1,2,1,1,1,8.76
+100076,Queens,Jackson Heights,Private room,72,4,6,0.26,4.13,327,0,2,0,1,1,1,1,11.09
+100165,Bronx,Riverdale,Private room,46,2,13,1.66,4.66,293,0,2,0,1,1,1,1,12.61
+100174,Queens,Long Island City,Private room,99,2,4,0.58,4.18,339,0,2,0,1,1,1,1,9.02
+100212,Queens,Flushing,Shared room,61,6,2,1.16,4.62,365,1,2,0,1,1,0,1,6.49
+100085,Brooklyn,Park Slope,Private room,56,4,27,0.22,4.13,365,0,2,0,1,1,1,1,5.62
+100186,Queens,Jackson Heights,Private room,185,3,4,1.05,4.83,284,0,1,0,1.5,1,1,1,6.21
+100133,Brooklyn,Bushwick,Private room,163,4,20,0.2,4.48,313,1,2,0,1,1,1,1,8.8
+100315,Queens,Jackson Heights,Private room,55,3,40,2.35,4.56,343,0,2,0,1,1,1,1,8.69
+100239,Manhattan,Harlem,Private room,154,4,21,0.15,4.28,347,0,2,0,1,1,1,1,3.55
+100203,Bronx,Fordham,Private room,43,4,11,2.51,4.6,365,1,1,0,1,1,1,1,9.18
+100178,Bronx,Riverdale,Shared room,38,11,10,0.21,4.05,365,0,1,0,1.5,1,1,1,7.96
+100198,Bronx,Fordham,Shared room,58,3,7,0.22,4.61,335,0,1,0,1,1,0,0,12.37
+100109,Manhattan,Midtown,Entire home/apt,525,16,5,0.68,4.39,302,1,2,1,2,1,1,1,2.19
+100043,Bronx,Riverdale,Private room,46,4,3,1.59,4.57,365,1,1,0,1,1,1,0,12.49
+100119,Brooklyn,Williamsburg,Entire home/apt,319,5,1,0.76,4.12,348,0,2,2,2,1,1,1,7.42
+100297,Manhattan,Upper East Side,Entire home/apt,346,11,53,1.11,4.59,300,0,4,2,1,1,1,1,4.03
+100034,Staten Island,St. George,Entire home/apt,182,2,4,1.14,4.42,365,0,6,3,2.5,1,1,0,17.32
+100115,Bronx,Riverdale,Private room,77,16,11,0.6,4.62,365,0,2,0,1.5,0,1,1,8.9
+100183,Bronx,Mott Haven,Private room,54,4,10,1.58,4.64,365,0,1,0,1,1,1,1,8.82
+100127,Bronx,Fordham,Private room,60,10,8,1.52,4.64,365,1,1,0,1,1,1,1,9.79
+100006,Manhattan,East Village,Private room,232,2,15,0.31,4.65,362,0,2,0,1,1,1,1,1.36
+100168,Manhattan,Upper West Side,Shared room,149,1,11,0.25,4.72,365,0,1,0,1,1,1,0,1.69
+100261,Staten Island,St. George,Shared room,69,5,9,1.54,4.52,365,0,1,0,1,1,0,1,18.27
+100300,Manhattan,Midtown,Entire home/apt,219,25,20,0.19,4.54,354,0,5,2,1.5,1,1,1,1.35
+100078,Brooklyn,Park Slope,Private room,63,5,3,1.28,4.57,361,0,2,0,1.5,0,0,1,4.53
+100176,Queens,Jackson Heights,Private room,68,7,4,0.74,4.16,310,0,1,0,1,1,1,1,9.99
+100195,Brooklyn,Park Slope,Entire home/apt,266,5,3,0.55,4.22,342,0,4,1,1,1,1,1,5.17
+100138,Brooklyn,Bushwick,Entire home/apt,204,2,10,2.31,4.44,311,0,5,2,2,0,1,1,5.56
+100169,Brooklyn,Park Slope,Private room,183,2,2,1.14,4.28,313,0,1,0,1,1,1,1,10.28
+100008,Brooklyn,Williamsburg,Entire home/apt,124,3,10,0.4,4.42,365,1,3,1,1,1,1,0,7.31
+100148,Manhattan,East Village,Entire home/apt,294,29,2,2.96,4.82,312,0,3,2,2,1,1,1,5.64
+100285,Manhattan,Upper West Side,Private room,142,5,15,0.98,4.38,304,1,1,0,1.5,1,1,1,4.36
+100281,Brooklyn,Bushwick,Entire home/apt,236,2,2,0.88,4.1,365,1,5,3,1,1,1,0,8.03
+100047,Brooklyn,Bushwick,Private room,63,3,33,0.8,4.51,313,0,1,0,1,1,1,1,5.03
+100003,Brooklyn,Williamsburg,Entire home/apt,270,3,2,0.27,4.5,283,0,4,1,2,1,1,1,2.92
+100141,Manhattan,East Village,Private room,158,3,12,0.45,4.65,340,1,1,0,1.5,1,1,1,1.45
+100243,Brooklyn,Park Slope,Entire home/apt,260,3,4,0.76,4.41,318,0,5,2,1,1,1,1,1.05
+100225,Manhattan,Upper West Side,Entire home/apt,263,17,6,1.65,4.72,365,0,2,2,2,1,1,1,2.79
+100083,Manhattan,East Village,Private room,105,3,7,0.13,4.56,323,0,2,0,1,1,1,1,5.08
+100058,Manhattan,Upper East Side,Private room,115,5,9,0.12,4.43,316,0,2,0,1,1,1,1,1.17
+100233,Brooklyn,Park Slope,Private room,62,2,3,0.09,4.19,365,1,2,0,1.5,1,0,1,3.12
+100166,Brooklyn,Bushwick,Entire home/apt,575,6,5,1.66,4.82,287,1,3,1,2.5,1,1,1,5.78
+100046,Manhattan,Upper East Side,Shared room,129,6,10,1.02,4.48,365,0,2,0,1.5,1,1,1,3.74
+100018,Brooklyn,Brooklyn Heights,Private room,92,4,3,0.68,4.22,351,0,2,0,1,1,1,1,7.08
+100185,Queens,Long Island City,Entire home/apt,156,4,2,0.46,5,365,1,3,2,1,1,1,1,9.61
+100105,Manhattan,Upper East Side,Private room,172,2,1,0.74,4.17,308,1,2,0,1,1,1,1,2.56
+100061,Manhattan,Upper West Side,Private room,148,2,6,2.23,4.5,319,1,1,0,1,0,1,1,3.16
+100025,Queens,Long Island City,Private room,63,6,8,1.22,4.17,335,1,1,0,1,1,1,1,6.33
+100221,Brooklyn,Brooklyn Heights,Private room,178,5,16,0.2,4.24,349,0,1,0,1,1,1,1,6.06
+100210,Brooklyn,Brooklyn Heights,Private room,59,4,4,0.37,4.16,365,1,1,0,1.5,1,1,1,4.11
+100110,Manhattan,East Village,Entire home/apt,222,16,23,0.37,4.37,365,1,4,1,1,1,1,1,0.2
+100094,Queens,Astoria,Private room,45,6,7,3.51,4,365,0,2,0,1,1,1,0,8.4
+100125,Brooklyn,Park Slope,Shared room,67,2,2,0.7,4.28,365,0,1,0,1,0,1,1,6.62
+100211,Queens,Flushing,Shared room,66,3,8,0.66,4.42,365,0,1,0,1.5,1,0,1,13.54
+100077,Manhattan,Upper East Side,Private room,153,3,20,3.28,4.59,312,1,3,0,1.5,1,0,1,0.28
+100095,Brooklyn,Brooklyn Heights,Private room,147,3,13,0.14,4.66,358,0,2,0,1,1,1,1,4.31
+100223,Brooklyn,Bushwick,Private room,123,2,3,1.51,4.08,305,1,2,0,1,1,1,0,3.94
+100312,Manhattan,East Village,Private room,340,4,23,0.46,4.31,362,0,1,0,1,1,1,1,0.31
+100259,Manhattan,East Village,Entire home/apt,173,11,62,0.43,4.79,346,1,5,1,2,1,1,1,0.92
+100317,Manhattan,Upper East Side,Entire home/apt,416,24,6,0.45,4.65,277,0,3,1,2.5,1,1,1,0.2
+100079,Manhattan,Upper East Side,Private room,175,2,18,0.9,4.18,318,0,2,0,1,1,1,1,1.32
+100309,Manhattan,Upper East Side,Entire home/apt,349,27,5,1.59,4.81,294,1,2,1,1.5,1,1,1,0.2
+100240,Staten Island,Tottenville,Private room,75,7,3,0.11,4.14,351,1,1,0,1,0,1,1,15
+100032,Manhattan,East Village,Private room,190,3,2,0.59,4.42,365,0,1,0,1,1,1,1,0.66
+100214,Queens,Jackson Heights,Private room,113,3,22,1.4,4.72,332,1,2,0,1.5,1,1,1,11.2
+100301,Brooklyn,Brooklyn Heights,Entire home/apt,229,2,3,1.13,4.57,336,0,3,2,2.5,1,1,1,4.79
+100146,Brooklyn,Williamsburg,Entire home/apt,393,1,9,1.28,4.51,288,0,5,1,1.5,1,1,1,7.13
+100251,Brooklyn,Bushwick,Private room,111,2,1,0.02,3.98,344,0,2,0,1,1,1,1,3.31
+100091,Queens,Long Island City,Shared room,33,4,3,0.52,4.29,365,0,1,0,1,1,1,1,4.11
+100156,Queens,Astoria,Entire home/apt,180,2,9,0.05,4.34,357,0,5,1,2,0,0,1,10.02
+100060,Brooklyn,Williamsburg,Entire home/apt,163,4,3,0.83,4.55,308,1,5,3,1,1,1,1,7.4
+100114,Queens,Jackson Heights,Entire home/apt,266,1,2,0.49,4.34,318,0,5,2,2,1,1,1,10.42
+100007,Bronx,Fordham,Private room,25,3,16,0.09,4.24,348,1,1,0,1.5,1,1,1,11.37
+100196,Queens,Astoria,Entire home/apt,108,2,15,0.27,4.29,346,0,3,1,1,1,0,1,8.89
+100031,Manhattan,Harlem,Private room,132,11,3,0.71,4.57,365,0,1,0,1,1,1,1,0.2
+100023,Brooklyn,Williamsburg,Private room,105,5,9,0.67,4.3,335,0,1,0,1,1,1,1,7.74
+100272,Bronx,Fordham,Entire home/apt,146,3,18,0.72,4.6,341,0,2,3,1.5,1,1,1,12.67
+100057,Manhattan,East Village,Entire home/apt,445,23,2,0.02,4.22,227,1,4,2,1,1,1,1,2.57
+100120,Queens,Long Island City,Entire home/apt,117,4,10,0.09,4.25,365,0,2,2,1,1,1,0,10.19
+100204,Brooklyn,Brooklyn Heights,Private room,31,3,1,0.48,4.63,363,0,2,0,1.5,1,1,1,5.24
+100256,Bronx,Fordham,Entire home/apt,173,2,2,0,4.08,320,0,3,2,1.5,1,1,1,10.08
+100145,Manhattan,Upper West Side,Entire home/apt,358,19,2,2.85,4.61,309,1,2,1,1,1,1,1,3.67
+100040,Manhattan,East Village,Entire home/apt,196,24,1,0.84,4.29,340,1,6,1,1.5,1,1,1,3.61
+100266,Queens,Flushing,Entire home/apt,251,2,4,0.11,4.43,365,0,4,3,1,1,0,1,9.7
+100147,Brooklyn,Brooklyn Heights,Private room,82,2,14,1.01,4.34,357,0,1,0,1,1,1,1,7.84
+100181,Manhattan,Harlem,Private room,206,4,4,0.21,4.61,310,0,1,0,1,1,1,1,3.93
+100306,Brooklyn,Williamsburg,Private room,83,4,7,0.82,4.28,365,0,1,0,1,1,1,1,4.81
+100269,Manhattan,Upper East Side,Entire home/apt,557,32,4,0.49,4.49,315,1,2,2,1,1,1,1,0.4
+100158,Manhattan,Upper West Side,Shared room,70,2,11,0.84,4.64,365,0,1,0,1.5,1,0,1,3.38
+100067,Queens,Jackson Heights,Entire home/apt,241,3,26,3.55,4.52,365,0,5,1,1,1,1,1,10.83
+100197,Bronx,Mott Haven,Private room,40,2,11,2.38,4.04,365,1,1,0,1,1,1,1,11.07
+100019,Manhattan,Upper East Side,Entire home/apt,344,8,0,1.77,4.79,274,0,2,1,2.5,0,1,1,0.2
+100184,Manhattan,Upper East Side,Private room,112,3,1,0.42,3.91,328,1,2,0,1,1,1,1,0.2
+100255,Brooklyn,Bedford-Stuyvesant,Shared room,75,2,57,5.2,4.35,365,0,2,0,1,1,1,1,3.95
+100020,Brooklyn,Park Slope,Private room,123,9,0,0.18,4.74,359,0,2,0,1,1,1,1,6.25
+100159,Queens,Long Island City,Private room,56,7,2,1.33,4.61,365,0,3,0,1,1,1,1,12.46
+100093,Brooklyn,Brooklyn Heights,Private room,83,6,3,0.93,4.42,329,0,1,0,1.5,1,1,1,4.78
+100080,Bronx,Riverdale,Entire home/apt,89,6,5,1.28,4.34,321,1,3,3,1.5,1,1,1,10.09
+100250,Manhattan,East Village,Private room,126,4,6,0.5,4.41,346,0,2,0,1,1,1,1,2.71
+100153,Brooklyn,Williamsburg,Private room,56,3,8,0.73,4.36,352,0,1,0,1,1,1,1,3.56
+100073,Queens,Flushing,Private room,108,4,3,0.73,4.08,365,1,1,0,1,1,1,1,9.04
+100097,Brooklyn,Brooklyn Heights,Entire home/apt,279,6,30,0.77,4.68,312,0,2,2,2,1,1,1,6.23
+100016,Manhattan,Upper West Side,Private room,191,3,5,1.87,4.07,365,0,1,0,1,1,1,1,2.24
+100112,Bronx,Fordham,Private room,90,3,3,0.27,4.44,365,1,1,0,1.5,1,1,1,8.65
+100011,Staten Island,St. George,Private room,73,2,3,0.56,4.44,353,1,2,0,1,1,1,1,18.05
+100180,Brooklyn,Williamsburg,Private room,137,5,13,1.11,4.66,365,0,1,0,1,1,1,1,7.98
+100070,Queens,Long Island City,Shared room,40,3,5,0.2,4.33,365,0,1,0,1,1,0,1,9.36
+100098,Manhattan,Harlem,Private room,152,3,3,0.93,4.13,343,0,1,0,1.5,1,1,1,2.47
+100182,Bronx,Fordham,Entire home/apt,171,3,16,1.93,4.24,365,1,4,2,2.5,1,1,1,7.66
+100069,Staten Island,New Dorp,Private room,118,3,12,1.79,4.47,358,1,2,0,1,1,1,1,15.53
+100299,Manhattan,Harlem,Private room,110,5,15,1.21,4.7,365,0,1,0,1,1,1,1,2.06
+100038,Queens,Astoria,Shared room,45,17,8,1.12,4.24,365,0,1,0,1,1,0,1,7.35
+100017,Brooklyn,Park Slope,Private room,65,3,11,0.34,4.49,365,0,1,0,1,1,1,1,7.19
+100227,Brooklyn,Brooklyn Heights,Private room,124,2,7,1.08,4.29,365,0,2,0,1.5,1,1,1,3.58
+100056,Manhattan,East Village,Private room,304,2,4,0.55,4.3,343,1,1,0,1,1,1,1,1.41
+100284,Brooklyn,Bushwick,Entire home/apt,306,3,2,2.83,4.62,357,0,2,1,1,1,1,1,7.57
+100289,Brooklyn,Bushwick,Private room,134,4,10,0.2,4.39,365,0,2,0,1.5,1,1,1,4.75
+100068,Manhattan,Harlem,Private room,252,2,2,0.96,4.24,332,1,1,0,1,1,1,1,0.2
+100254,Manhattan,East Village,Private room,121,2,4,0.64,5,302,0,1,0,1,1,0,1,0.2
+100231,Brooklyn,Park Slope,Private room,104,2,16,1.19,4.43,365,0,1,0,1,1,1,1,3
+100126,Queens,Jackson Heights,Shared room,84,3,5,0.41,4.74,355,1,2,0,1,1,0,1,9.73
+100164,Manhattan,Midtown,Private room,135,4,4,0.19,5,278,1,1,0,1,1,1,1,2.7
+100087,Queens,Flushing,Entire home/apt,180,6,5,1.71,4.8,336,1,3,2,2,1,1,1,5.74
+100270,Queens,Long Island City,Entire home/apt,185,3,15,0.27,4.41,336,0,4,2,2,1,1,0,7.45
+100144,Manhattan,Harlem,Shared room,127,4,2,1.22,4.22,365,1,2,0,1.5,1,1,1,1.91
+100293,Brooklyn,Williamsburg,Entire home/apt,287,4,12,3.37,4.81,357,0,4,2,2,1,1,0,5.94
+100140,Staten Island,New Dorp,Entire home/apt,228,5,4,0.7,4.56,365,1,3,2,1.5,1,1,1,15.64
+100232,Brooklyn,Bushwick,Private room,138,4,5,0.24,4.31,365,1,2,0,1,1,0,0,7.59
+100263,Brooklyn,Bushwick,Entire home/apt,222,3,1,0.35,4.42,287,0,3,1,1.5,1,1,1,8.82
+100305,Staten Island,St. George,Entire home/apt,205,3,9,0.79,4.72,335,1,5,1,1.5,1,1,1,16.98
+100149,Manhattan,Midtown,Shared room,41,4,3,0.18,4.32,365,1,2,0,1.5,1,0,1,5.06
+100205,Manhattan,Midtown,Private room,105,2,5,0.13,4.98,296,0,2,0,1.5,1,1,1,2.97
+100130,Brooklyn,Bedford-Stuyvesant,Private room,64,3,4,0.28,4.41,279,0,1,0,1,1,1,1,6.48
+100039,Brooklyn,Park Slope,Private room,75,3,4,0.33,4.44,345,0,2,0,1,1,1,1,6.9
+100220,Queens,Jackson Heights,Shared room,80,3,39,1.35,4.63,365,0,2,0,1,1,1,1,9.31
+100267,Queens,Astoria,Entire home/apt,283,2,6,0.37,4.35,247,1,5,2,2,1,1,1,10.09
+100246,Brooklyn,Bushwick,Entire home/apt,272,2,16,1.13,4.26,338,0,2,3,2.5,1,1,1,5.38
+100113,Queens,Long Island City,Entire home/apt,209,6,2,0.38,4.43,361,1,4,2,2.5,1,0,1,9.92
+100268,Brooklyn,Bedford-Stuyvesant,Entire home/apt,379,5,15,1.53,4.51,267,1,4,1,2.5,1,1,0,7.3
+100118,Bronx,Mott Haven,Private room,53,2,45,0.57,4.24,365,1,2,0,1,1,1,0,10.66
+100296,Queens,Jackson Heights,Entire home/apt,139,2,20,2.1,4.58,350,0,3,2,1,1,1,1,12.75
+100308,Queens,Astoria,Entire home/apt,182,3,5,1.03,4.96,322,0,2,1,1.5,1,1,1,8.97
+100290,Manhattan,Chelsea,Entire home/apt,413,13,5,1.53,5,289,1,5,2,1,1,1,1,6.19
+100207,Queens,Flushing,Entire home/apt,226,3,11,0.32,4.14,362,1,3,2,2,1,1,1,9.41
+100199,Queens,Jackson Heights,Entire home/apt,143,3,8,1.23,4.27,365,1,6,2,1,1,0,1,10.83
+100155,Manhattan,Upper East Side,Shared room,131,2,32,0.74,3.96,365,0,2,0,1.5,1,1,1,2.57
+100222,Manhattan,East Village,Entire home/apt,280,28,3,1.13,4.69,337,0,6,1,2,1,1,1,3.93
+100002,Queens,Astoria,Private room,78,12,11,0.5,4.16,330,0,3,0,1,0,1,1,7.74
+100116,Queens,Long Island City,Entire home/apt,314,2,7,0.17,4.48,289,0,3,3,1.5,1,1,1,9.06
+100229,Queens,Astoria,Private room,93,2,9,0.2,4.16,358,0,1,0,1.5,1,1,1,11.52
+100200,Queens,Astoria,Private room,61,2,46,0.14,4.09,365,1,2,0,1.5,1,1,0,13.02
+100121,Bronx,Mott Haven,Shared room,42,2,2,1.44,4.27,365,0,2,0,1,1,1,1,9.32
+100238,Queens,Jackson Heights,Private room,137,2,12,0.73,4.4,363,0,1,0,1,1,1,1,10.28
+100302,Brooklyn,Park Slope,Entire home/apt,198,10,36,0.13,4.42,357,1,5,2,1.5,1,1,1,7.46
+100128,Manhattan,Midtown,Entire home/apt,299,21,25,1.01,4.47,321,1,3,2,1,1,1,1,1.2
+100075,Queens,Astoria,Shared room,25,4,6,2.26,4.46,365,0,1,0,1,0,1,1,8.1
+100030,Brooklyn,Bushwick,Private room,92,4,3,0.62,4.82,321,1,2,0,1.5,1,1,1,7.91
+100084,Manhattan,Midtown,Entire home/apt,430,23,7,1.12,4.64,263,0,3,1,1.5,0,0,1,3.17
+100279,Queens,Astoria,Entire home/apt,158,3,6,0.63,4.34,346,0,2,2,2.5,1,1,1,7.08
+100108,Manhattan,East Village,Entire home/apt,190,23,2,1.23,4.06,365,1,6,3,2,1,1,1,1.34
+100173,Manhattan,Chelsea,Entire home/apt,285,16,10,1.46,4.33,289,0,2,2,1.5,1,1,1,0.68
+100194,Brooklyn,Bedford-Stuyvesant,Entire home/apt,190,7,10,0.07,4.36,304,0,3,2,2,0,1,1,4.88
+100134,Staten Island,St. George,Entire home/apt,153,2,7,1.77,4.1,321,1,2,3,1,1,1,1,16.2
+100262,Manhattan,East Village,Private room,79,6,5,0.48,4.73,359,1,1,0,1,1,1,1,2.23
+100288,Manhattan,Midtown,Private room,183,2,13,0.68,4.78,299,1,1,0,1,1,1,1,3.82
+100295,Brooklyn,Bedford-Stuyvesant,Shared room,86,2,9,0.07,4.11,365,0,1,0,1,1,1,1,3.19
+100066,Manhattan,Harlem,Entire home/apt,299,13,9,0.2,4.61,332,0,2,1,2.5,1,1,1,4.99
+100224,Manhattan,Chelsea,Private room,126,5,34,0.51,4.13,336,1,1,0,1,1,1,1,1.42
+100086,Queens,Astoria,Entire home/apt,414,3,15,0.35,4.29,349,0,3,1,1,1,1,1,7.05
+100241,Staten Island,New Dorp,Entire home/apt,146,1,10,0.5,4.51,337,1,3,1,2,1,1,1,16.16
+100160,Brooklyn,Bedford-Stuyvesant,Private room,53,2,42,0.79,4.4,315,1,2,0,1,0,1,1,6.64
+100013,Manhattan,Midtown,Entire home/apt,322,9,33,0.64,4.66,282,0,6,2,1,1,1,1,2.92
+100036,Manhattan,Harlem,Entire home/apt,626,10,8,0.2,4.64,294,1,4,1,2.5,1,1,1,0.42
+100029,Manhattan,Midtown,Private room,99,6,15,0.07,4.21,351,1,1,0,1.5,1,1,1,4.46
+100171,Manhattan,Harlem,Private room,147,6,4,0.5,4.39,305,1,1,0,1,1,1,1,0.2
+100143,Manhattan,Upper East Side,Private room,176,7,6,0.21,4.12,347,1,2,0,1,1,1,0,0.2
+100235,Queens,Jackson Heights,Entire home/apt,206,4,5,0.7,4.49,333,1,3,2,1,1,1,0,10.01
+100132,Manhattan,Chelsea,Private room,99,4,3,1.31,4.41,344,0,1,0,1.5,1,1,1,0.2
+100303,Queens,Long Island City,Private room,81,2,2,1.22,4.62,365,1,3,0,1,1,1,1,8.08
+100052,Bronx,Riverdale,Entire home/apt,214,2,10,0.33,4.59,363,0,3,1,2.5,1,1,0,10.81
+100096,Brooklyn,Park Slope,Entire home/apt,226,4,10,0.16,4.94,272,0,2,2,1,1,1,1,3.54
+100234,Manhattan,Chelsea,Private room,144,3,5,0.03,4.42,365,0,2,0,1,1,1,1,1.45
+100179,Manhattan,Upper East Side,Shared room,66,5,9,0.63,4.23,365,1,1,0,1,1,0,1,2.88
+100249,Bronx,Fordham,Entire home/apt,132,6,8,1.7,4.47,339,1,6,1,2,0,1,1,9.17
+100042,Manhattan,East Village,Private room,93,2,19,0.19,4.34,354,0,2,0,1,1,1,1,3.64
+100090,Manhattan,East Village,Entire home/apt,435,23,10,0.35,4.45,310,0,4,2,1.5,1,1,1,5.79
+100245,Bronx,Fordham,Private room,37,2,1,0.56,4.93,365,0,2,0,1.5,1,1,0,9.03
+100137,Queens,Flushing,Private room,41,8,4,0.45,4.48,365,0,2,0,1.5,1,1,1,8.64
+100027,Brooklyn,Brooklyn Heights,Entire home/apt,245,5,3,0.12,4.52,350,0,4,1,1,1,1,1,6.93
+100313,Staten Island,Tottenville,Private room,57,4,8,0.46,4.26,365,0,1,0,1.5,1,1,1,17.61
+100142,Brooklyn,Park Slope,Private room,65,4,9,0.09,4.67,365,1,1,0,1,1,1,1,8.45
+100226,Staten Island,St. George,Entire home/apt,132,9,4,0.19,4.59,348,1,3,2,1,1,1,1,16.37
+100000,Brooklyn,Brooklyn Heights,Private room,79,3,3,0.31,4.15,365,0,1,0,1.5,1,1,1,7.43
+100287,Brooklyn,Williamsburg,Entire home/apt,236,6,18,0.25,4.67,324,1,4,2,2.5,1,1,1,6.77
+100283,Manhattan,Upper West Side,Entire home/apt,312,16,10,4.02,4.8,307,1,4,3,1,1,1,1,0.2
+100291,Manhattan,Midtown,Private room,177,4,12,1.27,4.69,345,0,1,0,1,1,0,1,4.2
+100101,Queens,Astoria,Private room,80,2,3,1.05,4.8,365,0,1,0,1,1,1,1,10.57
+100193,Queens,Long Island City,Private room,119,4,5,0.07,4.28,342,0,1,0,1,1,1,1,8.29
+100275,Brooklyn,Williamsburg,Private room,186,4,7,0.4,4.59,323,0,1,0,1,1,1,1,7.31
+100104,Bronx,Fordham,Entire home/apt,181,3,3,1.4,4.99,336,0,2,2,2,1,1,1,9.24
+100172,Brooklyn,Williamsburg,Entire home/apt,214,3,5,0.09,4.48,365,0,4,2,2.5,1,1,1,9.33
+100099,Manhattan,Upper West Side,Private room,127,4,8,0.17,4.24,349,1,1,0,1.5,0,1,0,3.2
+100037,Manhattan,East Village,Private room,101,6,6,1.05,4.35,301,0,2,0,1,1,1,1,4.63
+100062,Bronx,Mott Haven,Private room,35,7,11,2.52,4.2,365,1,2,0,1.5,1,1,0,10.45
+100151,Manhattan,East Village,Shared room,110,4,8,0.83,4.19,365,0,1,0,1,1,1,1,0.2
+100048,Brooklyn,Bushwick,Entire home/apt,396,5,20,0.04,4.52,282,0,2,2,1,1,0,1,8.23
+100228,Bronx,Fordham,Private room,71,4,4,2.05,4.49,332,0,1,0,1.5,1,1,1,8.83
+100276,Queens,Flushing,Private room,111,2,5,0.59,4.09,365,1,2,0,1,1,1,1,10.22
+100012,Bronx,Riverdale,Entire home/apt,168,4,33,0.1,4.65,365,0,4,1,1.5,1,0,1,8.85
+100316,Brooklyn,Williamsburg,Private room,118,2,3,2.42,4.47,357,0,2,0,1,1,1,1,10.52
+100201,Manhattan,Harlem,Entire home/apt,351,25,17,1.2,4.81,287,1,6,2,1,1,1,1,3.22
+100286,Brooklyn,Bushwick,Entire home/apt,281,3,2,0.53,4.81,365,0,4,1,2.5,1,1,1,6.1
+100028,Brooklyn,Brooklyn Heights,Entire home/apt,305,3,7,0.07,4.77,314,1,3,2,1,1,1,1,4.4
+100247,Staten Island,St. George,Private room,79,1,6,0.13,4.4,330,0,1,0,1,1,1,1,16.42
+100005,Manhattan,Upper West Side,Private room,97,8,7,0.22,4.2,332,1,1,0,1.5,1,1,1,0.2
+100123,Manhattan,Upper East Side,Entire home/apt,369,22,5,1.13,4.55,299,1,2,1,2.5,1,1,1,3.35
+100033,Staten Island,St. George,Entire home/apt,121,4,1,0.9,4.45,340,1,3,3,1,1,1,1,17.39
+100230,Queens,Flushing,Private room,75,11,6,0.18,4.43,342,0,1,0,1,1,1,1,9.47
+100163,Brooklyn,Bushwick,Private room,132,2,12,1.83,3.96,365,0,1,0,1,1,1,1,8.4
+100248,Staten Island,New Dorp,Private room,64,5,15,1.23,4.93,343,0,1,0,1.5,0,1,1,15.34
+100273,Bronx,Fordham,Entire home/apt,190,2,7,0.58,4.81,356,0,2,1,2,1,1,1,8.2
+100139,Staten Island,New Dorp,Entire home/apt,242,4,3,0.23,4.81,333,1,5,2,1.5,1,1,1,17.04
+100063,Brooklyn,Bushwick,Private room,126,5,41,0.15,4.57,263,0,1,0,1,1,1,1,6.27
+100216,Brooklyn,Brooklyn Heights,Private room,120,4,4,1.84,4.34,339,0,1,0,1.5,1,1,1,5.15
+100136,Brooklyn,Bedford-Stuyvesant,Entire home/apt,296,2,10,0.88,4.43,302,1,6,1,1,1,1,1,6.15
+100298,Queens,Astoria,Private room,93,3,6,0.51,4.35,358,0,2,0,1,1,1,1,11.64
+100129,Brooklyn,Williamsburg,Entire home/apt,349,4,3,0.82,4.66,300,1,2,3,1.5,1,1,0,7.76
+100310,Brooklyn,Park Slope,Private room,98,3,24,1.01,4.2,331,1,1,0,1,1,0,1,4.79
+100009,Queens,Astoria,Entire home/apt,130,3,7,0.77,4.92,355,0,3,2,2.5,1,1,1,6.42
+100071,Manhattan,East Village,Entire home/apt,421,17,20,1.79,4.77,272,0,4,2,2,1,1,1,0.31
+100282,Brooklyn,Brooklyn Heights,Entire home/apt,357,2,12,0.9,4.92,322,1,3,1,1.5,0,1,0,7.39
+100065,Brooklyn,Bushwick,Private room,134,2,0,1.21,4.28,363,0,1,0,1,1,0,1,8.53
+100045,Queens,Flushing,Entire home/apt,108,4,5,0.44,4.75,365,1,2,2,1,1,1,1,12.7
+100015,Manhattan,Harlem,Entire home/apt,423,14,8,0.01,4.59,289,0,2,1,1.5,1,1,1,2.69
+100157,Queens,Flushing,Private room,61,2,10,2.16,4.35,365,0,2,0,1,1,1,1,12.08
+100041,Brooklyn,Bushwick,Private room,193,5,14,0.4,4.48,339,0,2,0,1,1,1,1,0.61
+100257,Queens,Long Island City,Shared room,47,3,0,1.98,4.05,365,0,1,0,1,1,0,1,8.45
+100124,Manhattan,East Village,Private room,167,4,7,1.24,4.38,331,0,1,0,1,1,1,1,4.53
+100304,Queens,Astoria,Private room,47,5,15,0.42,4.58,325,0,1,0,1,1,1,1,8.66
+100217,Queens,Jackson Heights,Entire home/apt,257,2,1,0.88,4.6,354,0,4,3,1,0,1,0,6.85
+100154,Staten Island,St. George,Private room,50,3,4,0.36,4.06,345,0,1,0,1,1,1,1,12.53
+100024,Brooklyn,Bedford-Stuyvesant,Entire home/apt,200,2,4,0.51,4.47,334,1,2,3,1,1,1,1,8.88
+100278,Queens,Jackson Heights,Entire home/apt,156,8,14,0.9,4.43,361,0,6,2,2.5,1,1,0,9.15
+100111,Manhattan,Upper East Side,Private room,132,4,3,0.29,4.86,357,0,1,0,1,1,1,1,2.55
+100082,Brooklyn,Bedford-Stuyvesant,Private room,166,2,7,0.05,4.21,320,1,2,0,1,1,1,1,6.83
+100237,Manhattan,Harlem,Entire home/apt,219,28,13,0.43,4.34,279,0,3,1,2.5,1,1,1,0.2
+100208,Manhattan,Chelsea,Entire home/apt,559,20,14,0.07,4.67,295,1,2,3,2,1,1,1,1.97
+100213,Manhattan,Harlem,Private room,159,4,2,0.4,4.19,328,0,2,0,1,1,1,1,1.88
+100292,Bronx,Mott Haven,Private room,44,4,19,4.19,4.53,365,0,1,0,1.5,1,1,1,10.94
+100252,Bronx,Mott Haven,Entire home/apt,81,2,2,0.38,4.37,365,0,3,1,2,1,1,1,12.09
+100311,Manhattan,East Village,Private room,112,6,14,0.56,4.2,365,0,3,0,1.5,1,1,1,4.35
+100202,Manhattan,Chelsea,Shared room,126,9,53,0.02,4.49,365,1,1,0,1.5,1,1,1,2.25
+100162,Queens,Jackson Heights,Private room,56,2,15,0.65,4.48,339,0,1,0,1.5,1,1,1,10.48
+100044,Manhattan,East Village,Shared room,157,3,6,2.56,4.65,355,0,1,0,1,1,0,1,3.97
+100218,Queens,Long Island City,Private room,97,6,15,0.5,4.3,344,1,2,0,1,1,1,1,9.23
+100191,Bronx,Riverdale,Entire home/apt,186,2,26,0.09,4.45,365,1,5,3,2.5,1,1,1,6.21
+100260,Brooklyn,Williamsburg,Private room,134,2,9,0.06,4.56,312,0,1,0,1,1,1,1,4.54
+100106,Brooklyn,Bushwick,Private room,71,3,3,0.15,4.22,355,0,2,0,1,1,1,1,5.71
+100054,Brooklyn,Park Slope,Entire home/apt,228,3,11,0.19,4.41,333,1,3,1,1,1,1,1,10.48
+100001,Staten Island,Tottenville,Private room,86,3,19,1.11,4.61,365,0,1,0,1,1,1,1,14.46
+100050,Staten Island,Tottenville,Entire home/apt,91,1,12,0.85,4.7,318,0,3,2,2,1,1,1,16.15
+100081,Queens,Long Island City,Private room,61,2,9,0.52,4.36,340,0,3,0,1,1,1,1,4.65
+100206,Manhattan,Midtown,Entire home/apt,537,24,1,2.08,4.56,275,1,2,2,2.5,1,1,1,0.2
+100035,Queens,Astoria,Private room,89,2,14,0.34,4.34,348,0,2,0,1,1,1,1,12.99
+100264,Bronx,Mott Haven,Private room,40,4,2,0.62,4.4,317,1,1,0,1.5,1,1,1,8.72
+100092,Queens,Jackson Heights,Shared room,56,5,4,1.63,4.54,365,0,1,0,1.5,1,0,1,10.26
+100053,Bronx,Mott Haven,Private room,61,10,7,0.58,4.74,365,0,1,0,1,0,1,1,12.43
+100265,Queens,Astoria,Entire home/apt,188,10,5,0.68,4.37,365,1,5,1,1,1,1,1,8.48
+100242,Bronx,Fordham,Entire home/apt,183,4,14,0.44,4.9,336,1,5,2,1,1,1,1,4.51
+100014,Manhattan,Upper East Side,Entire home/apt,334,18,10,0.77,4.56,318,0,3,2,1,1,1,1,0.2
+100089,Brooklyn,Williamsburg,Entire home/apt,273,2,9,2.17,4.63,340,0,4,1,1,1,1,1,5.76
+100274,Brooklyn,Brooklyn Heights,Private room,68,2,4,0.8,4.73,354,1,1,0,1.5,1,0,1,5.05
+100167,Manhattan,Midtown,Entire home/apt,279,14,4,0.04,4.23,356,0,2,3,2.5,1,1,1,2.98
+100314,Bronx,Fordham,Entire home/apt,217,3,9,1.18,4.48,337,0,2,1,1,1,0,1,10.22
+100135,Brooklyn,Bedford-Stuyvesant,Private room,109,5,9,1.1,4.52,347,0,1,0,1,1,1,1,3.79
+100307,Brooklyn,Park Slope,Private room,147,3,73,3,4.73,365,0,1,0,1,1,1,1,7.88
+100244,Manhattan,Upper West Side,Entire home/apt,537,12,6,0.48,4.97,268,0,5,2,1.5,1,1,1,4
+100055,Bronx,Mott Haven,Entire home/apt,243,8,3,0.63,4.36,318,0,3,1,2,1,1,0,7.95
+100051,Queens,Long Island City,Entire home/apt,165,2,22,2.41,4.11,325,0,2,1,2,1,1,1,10.5
+100175,Manhattan,Midtown,Entire home/apt,283,16,6,0.61,4.26,341,1,5,1,2,1,1,1,2.84
+100190,Manhattan,Midtown,Private room,126,5,6,0.65,4.42,365,1,2,0,1,0,1,1,1.95
+100318,Manhattan,Harlem,Entire home/apt,349,21,15,1.39,4.54,254,1,2,1,2,1,1,1,0.67
+100188,Brooklyn,Brooklyn Heights,Shared room,54,2,5,0.31,4.5,362,0,1,0,1,1,0,1,4.8
+100170,Queens,Flushing,Private room,47,3,6,0.74,4.16,365,0,2,0,1.5,1,1,1,10.51
+100059,Brooklyn,Bushwick,Entire home/apt,221,4,6,1.03,4.61,262,0,4,3,1,1,1,1,5.86
+100049,Manhattan,Harlem,Entire home/apt,165,16,5,1.7,4.67,318,1,4,3,1,1,1,1,0.93
+100236,Manhattan,Chelsea,Entire home/apt,458,20,6,0.03,4.48,290,1,3,1,1.5,1,1,1,4.18
+100253,Manhattan,Upper East Side,Private room,200,4,0,0.82,4.64,285,0,2,0,1,1,1,1,1.59
+100022,Manhattan,Upper West Side,Entire home/apt,341,12,8,0.13,4.84,362,1,3,1,1.5,1,1,1,0.2
+100161,Queens,Jackson Heights,Private room,53,3,1,1.41,4.29,360,0,2,0,1,1,1,1,6.95
+100277,Queens,Flushing,Entire home/apt,186,3,8,0.45,4.41,343,0,4,1,1,1,1,1,10
+100192,Bronx,Fordham,Shared room,52,1,7,0.31,4.19,365,1,1,0,1.5,1,1,1,10.87
+100294,Manhattan,Chelsea,Private room,221,2,4,0.17,4.3,340,1,1,0,1,1,1,1,2.89
+100258,Brooklyn,Park Slope,Private room,99,2,17,0.92,4.39,365,1,1,0,1,1,1,1,3.21
+100150,Bronx,Fordham,Entire home/apt,210,5,8,0.27,4.26,357,1,2,2,1,0,1,0,7.92
+100131,Manhattan,East Village,Private room,170,3,17,1,3.69,338,1,2,0,1,1,1,1,1.76
+100152,Manhattan,Upper East Side,Entire home/apt,195,21,1,0.71,5,293,0,3,1,2,1,1,1,2.59
+100100,Manhattan,Chelsea,Private room,285,3,2,1.44,3.94,331,1,1,0,1,1,1,1,0.2
+100088,Bronx,Mott Haven,Private room,64,5,30,0.81,4.78,362,0,3,0,1.5,1,1,1,7.04
+100215,Manhattan,Midtown,Shared room,115,4,8,1.23,4.15,334,0,1,0,1,1,0,1,2.95
+100122,Manhattan,Midtown,Entire home/apt,469,27,15,0.42,4.53,291,1,2,2,1,1,1,1,4.88
+100319,Manhattan,East Village,Entire home/apt,288,21,6,0.35,4.48,365,0,2,1,2.5,1,1,1,1.96
+100021,Manhattan,Midtown,Private room,109,4,3,0.7,4.05,298,1,1,0,1,1,1,1,4.62
+100189,Manhattan,Harlem,Private room,151,2,2,1.87,4.05,365,1,2,0,1,1,1,1,0.2
+100072,Manhattan,Chelsea,Entire home/apt,333,10,10,0.07,4.54,261,1,2,2,2,1,1,1,2.14
+100107,Queens,Flushing,Private room,112,4,6,0.11,4.52,365,0,2,0,1,1,1,1,10.74
+100271,Queens,Jackson Heights,Private room,54,8,4,0.47,4.36,365,0,2,0,1,1,1,1,8.36
+100103,Brooklyn,Williamsburg,Private room,90,2,4,0.74,4.98,362,1,1,0,1,1,1,1,6.76
